@@ -1,0 +1,11 @@
+How to make android application with Javascript:
+1. Choose text editor and web browser (in my case, i prefer vscode and firefox)
+2. Install Nodejs and NPM
+3. Install Cordova 
+4. Install JDK (Java Development Kit)
+5. Install Gradle
+6. Install Android SDK
+7. Install Android Studio
+
+See https://www.petanikode.com/cordova/ for more detail.
+
